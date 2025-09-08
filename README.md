@@ -73,7 +73,7 @@
 
 <p align="center">
 <a href="https://github.com/julian10neuta">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=julian10neuta&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julian10neuta&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=julian10neuta&show_icons=true&locale=en&layout=compact&theme=radical"/>
 </a>
 </p>
@@ -81,16 +81,13 @@
 <br>
 
 ### 🔗 &nbsp;Contact Me
+<!--<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<br> -->
 
 <div align="center">
 <a href="mailto:julian.neuta01@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/julian-david-velandia-neuta/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</a>
 <br>
-
-</div>
- 
-</div>
 
 <!--
 **julian10neuta/julian10neuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
