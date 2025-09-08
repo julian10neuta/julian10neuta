@@ -10,19 +10,19 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <br>
 
 - 🎓 Engineer in the making | 💻 Passionate about technology and social impact | 🌎 Explorer of change.
 - :school: I am a current student of software engineering at [Universidad Nacional de Colombia](https://unal.edu.co/).
-- :trophy: 2x `ACPC` Finalist.
+- 📈 A committed individual, dedicated to personal and professional growth.
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :student: I am a curious learner interested in `Machine Learning` and `IA`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]([http://lnkiy.in/Ahmed_Hossam_Resume](https://www.canva.com/design/DAGxAqWkvzw/x87o496A7oBv18HY6fadfg/view?utm_content=DAGxAqWkvzw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5e75924f0b)).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+- :thinking: I’m currently open for a new `job opportunity` and collaborate in projects in order to create bussiness solutions, this is [MY RESUME](https://www.canva.com/design/DAGxAqWkvzw/x87o496A7oBv18HY6fadfg/view?utm_content=DAGxAqWkvzw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5e75924f0b).
+<!--
+- :boom: You can visit [MY ](https://cutt.ly/Ahmed_Hossam_Website). -->
 <br>
+
 
 
 <!--
