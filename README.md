@@ -52,8 +52,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-A81D33.svg?style=for-the-badge&logo=debian&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Fortinet](https://img.shields.io/badge/Fortinet-EE1C25.svg?style=for-the-badge&logo=fortinet&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+![Fortinet](https://img.shields.io/badge/Fortinet-EE1C25.svg?style=for-the-badge&logo=fortinet&logoColor=white)
+
 
 
 
