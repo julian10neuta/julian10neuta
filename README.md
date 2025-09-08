@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Julian Velandia 👋
+
+<img width="600" height="200" alt="Julian velandia Banner" src="https://github.com/user-attachments/assets/f0a6ac79-aecf-4461-a06f-32ffe5415b68" />
 
 <!--
 **julian10neuta/julian10neuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
