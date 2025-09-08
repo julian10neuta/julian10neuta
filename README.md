@@ -21,9 +21,9 @@
 - 🎓 Engineer in the making | 💻 Passionate about technology and social impact | 🌎 Explorer of change.
 - :school: I am a current student of software engineering at [Universidad Nacional de Colombia](https://unal.edu.co/).
 - 📈 A committed individual, dedicated to personal and professional growth.
-- :student: I am a curious learner interested in `Machine Learning` and `IA`.
+- 💡🤖 I am a curious learner interested in `Machine Learning` and `IA`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity` and collaborate in projects in order to create bussiness solutions, this is [MY RESUME](https://www.canva.com/design/DAGxAqWkvzw/x87o496A7oBv18HY6fadfg/view?utm_content=DAGxAqWkvzw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5e75924f0b).
+- 🚀 I’m currently open for a new `job opportunity` and collaborate in projects in order to create bussiness solutions, this is [MY RESUME](https://www.canva.com/design/DAGxAqWkvzw/x87o496A7oBv18HY6fadfg/view?utm_content=DAGxAqWkvzw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5e75924f0b).
 <!--
 - :boom: You can visit [MY ](https://cutt.ly/Ahmed_Hossam_Website). -->
 <br>
