@@ -11,7 +11,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineering+Student;Statistical+Analyst;Linux+Lover;Cibersecurity+Student;;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineering+Student;Statistical+Analyst;Linux+Lover;Cybersecurity+Student;;Always+learning+new+things"></a>
 </p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
@@ -21,7 +21,6 @@
 - 🎓 Engineer in the making | 💻 Passionate about technology and social impact | 🌎 Explorer of change.
 - :school: I am a current student of software engineering at [Universidad Nacional de Colombia](https://unal.edu.co/).
 - 📈 A committed individual, dedicated to personal and professional growth.
-- :technologist: I love using Software as a solution for every `Problem`.
 - :student: I am a curious learner interested in `Machine Learning` and `IA`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity` and collaborate in projects in order to create bussiness solutions, this is [MY RESUME](https://www.canva.com/design/DAGxAqWkvzw/x87o496A7oBv18HY6fadfg/view?utm_content=DAGxAqWkvzw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5e75924f0b).
@@ -29,7 +28,22 @@
 - :boom: You can visit [MY ](https://cutt.ly/Ahmed_Hossam_Website). -->
 <br>
 
+## 🛠 &nbsp;My Skills
 
+#### 🔧 Languages
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+
+
+
+### 🔗 &nbsp;Contact Me
+
+<div align="center">
+<a href="mailto:julian.neuta01@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/julian-david-velandia-neuta/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</a>
+</div>
 
 <!--
 **julian10neuta/julian10neuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
