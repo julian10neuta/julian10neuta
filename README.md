@@ -1,6 +1,12 @@
-## Hi there, I'm Julian Velandia 👋
+<h1 align="center">Hi , I'm Julian Velandia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img width="600" height="200" alt="Julian velandia Banner" src="https://github.com/user-attachments/assets/f0a6ac79-aecf-4461-a06f-32ffe5415b68" />
+<img width="900" height="300" alt="Julian velandia Banner" src="https://github.com/user-attachments/assets/c9eb3f07-6e43-425f-836b-846b1b1882cc" />
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineering+Student;Statistical+Analyst;Linux+Lover;Cibersecurity+Student;;Always+learning+new+things"></a>
+</p>
+
+
 
 <!--
 **julian10neuta/julian10neuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
