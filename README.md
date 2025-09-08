@@ -66,12 +66,29 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
 
 
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Analytics
+
+<br>
+
+<p align="center">
+<a href="https://github.com/julian10neuta">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=julian10neuta&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=julian10neuta&show_icons=true&locale=en&layout=compact&theme=radical"/>
+</a>
+</p>
+
+<br>
+
 ### 🔗 &nbsp;Contact Me
 
 <div align="center">
 <a href="mailto:julian.neuta01@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/julian-david-velandia-neuta/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </a>
+<br>
+
+</div>
+ 
 </div>
 
 <!--
